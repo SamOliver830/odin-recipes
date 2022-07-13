@@ -1,0 +1,1 @@
+This is a project for demonstrating basic HTML that I learned from The Odin Project.  It shows off lists, links, and embedded images.  
